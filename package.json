@@ -1,12 +1,14 @@
 {
 "name": "munga-jr-bot",
 "version": "1.0.0",
+"description": "WhatsApp Bot by Munga Jr",
 "main": "index.js",
 "scripts": {
 "start": "node index.js"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "latest",
-"pino": "latest"
+"pino": "latest",
+"express": "latest"
 }
 }
